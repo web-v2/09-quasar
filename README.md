@@ -1,3 +1,6 @@
+<a href="https://vuejs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="300" height="300" alt="VueJs" /></a>
+<a href="https://quasar.dev/" target="_blank"><img src="https://cdn.quasar.dev/logo-v2/svg/logo-vertical-dark.svg" width="300" height="300" alt="Quasar" /></a>
+
 # Quasar App (09-quasar) - Curso de Vue
 
 _Proyecto para utilizar Quasar con Vue de la seccion 18 del Curso de Vue de Fernando Herrera - Udemy_
