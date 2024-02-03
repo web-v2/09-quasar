@@ -18,6 +18,12 @@ export const linksList = [
     link: "dialogs",
   },
   {
+    title: "Forms Vue",
+    caption: "Formularios con Quasar",
+    icon: "lab la-wpforms",
+    link: "forms",
+  },
+  {
     title: "Docs",
     caption: "quasar.dev",
     icon: "las la-graduation-cap",
